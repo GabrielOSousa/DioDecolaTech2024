@@ -1,15 +1,3 @@
-## Olá! Sejam Bem-Vindos!
-Olá Visitantes,
-
-Sou Gabriel Sousa, um apaixonado desenvolvedor que busca constantemente desafios estimulantes e oportunidades para contribuir de forma significativa no mundo da tecnologia. 
-Durante minha trajetória, investi um tempo significativo no aprimoramento das minhas habilidades em diversas áreas e recentemente participei do curso "DecolaTech 2024". 
-Nesta jornada de aprendizado intensivo, consegui consolidar uma série de conhecimentos valiosos que estou ansioso para aplicar em ambientes práticos.
-
-Durante o curso, dominei a sintaxe e os tipos de dados fundamentais em C#, explorei operadores aritméticos e lógicos para a tomada de decisões eficazes em meus programas.
-Aprofundei-me em estruturas de repetição, manipulação avançada de valores, e compreendi a importância do versionamento de código utilizando ferramentas como Git.
-
-Esses aprendizados agora estão resumidos de forma concisa abaixo:
-
 ## Conceito de Classe
 Inicialmente, vamos utilizar um Computador como nosso objeto de referência para compreender o conceito de Classe.
 
