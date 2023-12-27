@@ -8,7 +8,7 @@ Durante o curso, dominei a sintaxe e os tipos de dados fundamentais em C#, explo
 
 | Assuntos Abordados       |                   Resumos               |
 |--------------------------|-----------------------------------------|
-| Sintaxe e Tipos de Dados |[RESUMO](https://encurtador.com.br/ABKQY)|
+| Sintaxe e Tipos de Dados |[RESUMO](Dominando_Csharp/SintaxeTiposDeDados.md)|
 | Tipos de Operadores      |[RESUMO](https://)|
 | Operados Aritméticos     |[RESUMO](https://)|
 | Estruturas de Repetição  |[RESUMO](https://)|
