@@ -45,7 +45,13 @@ Para entendermos melhor o que será representado nos diagramas e nos exemplos qu
 | `short`  | Tipo de inteiro de 16 bits                           | -32.768 a 32.767                                   | 0            |
 | `ulong`  | Tipo de inteiro sem sinal de 64 bits                 | 0 a 18.446.744.073.709.551.615                     | 0            |
 
-A table a cima representa todos os tipo de dados do C# e a faixa de valores
+A table a cima representa todos os tipo de dados do C# e a faixa de valores em que eles atuam.
+
+Já que entendemos o básico, iremos passar para o código propriamente dito para analisarmos o que está acontecendo em cada etapa.
+
+## Analise da Sintaxe
+
+![App Screenshot](../Assets/Sintaxe.png)
 
 
 
